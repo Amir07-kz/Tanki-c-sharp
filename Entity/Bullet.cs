@@ -5,6 +5,7 @@ namespace TankiOnline.Entity;
 
 public class Bullet
 {
+    
     public string TankId { get; set; }
     public string Image { get; set; }
     public float Speed { get; set; } = 6;
