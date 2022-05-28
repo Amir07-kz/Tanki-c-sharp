@@ -2,8 +2,8 @@
 using System.Net.Mime;
 using TankiOnline.Services;
 
-namespace TankiOnline.Entity;
-
+namespace TankiOnline.Entity; 
+// possible work
 public class Tank
 {
     public string Id { get; set; }
